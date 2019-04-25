@@ -1,0 +1,18 @@
+{
+  "name": "first-app",
+  "version": "1.0.0",
+  "description": "first app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Argin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  }
+}
